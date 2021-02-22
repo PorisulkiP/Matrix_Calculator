@@ -1,5 +1,0 @@
-C:/Users/alex1/source/repos/MatrixCalculator/Qt/build-matrixCalculator-Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/matrixCalculator.dir
-C:/Users/alex1/source/repos/MatrixCalculator/Qt/build-matrixCalculator-Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/alex1/source/repos/MatrixCalculator/Qt/build-matrixCalculator-Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/alex1/source/repos/MatrixCalculator/Qt/build-matrixCalculator-Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/matrixCalculator_autogen_timestamp_deps.dir
-C:/Users/alex1/source/repos/MatrixCalculator/Qt/build-matrixCalculator-Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/matrixCalculator_autogen.dir
