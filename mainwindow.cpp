@@ -10,7 +10,6 @@
 
 int operatorFlag = 1;
 
-
 //конструктор
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -19,6 +18,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);//при запуске файла
     on_plus_clicked(true);
 
+    // Задаём первичные значения матриц
     ui->sizeA_val_row->setCurrentIndex(1);
     ui->sizeA_val_col->setCurrentIndex(1);
     ui->sizeB_val_raw->setCurrentIndex(1);
@@ -93,7 +93,7 @@ void MainWindow::init(int calling_code)
     ansverOut(first_matrix, second_matrix, ansArr, row, col, calling_code);
 }
 
-
+//Заполнение массива по указателям
 void MainWindow::arrFill(double **first_matrix,
                             double **second_matrix,
                             double **ansArr,
